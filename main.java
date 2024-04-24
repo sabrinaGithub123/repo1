@@ -59,7 +59,9 @@ public class main {
 		this.clas = clas;
 	}
 	
-	
+    public void setessai(String clas) {
+		this.clas = clas;
+	}
 	
 	
 }
